@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1472887040 source:/home/saurabh/CPP/CPP/HELLO.cpp
+	<iostream>
+	<stdlib.h>
+
+1472195477 source:/home/saurabh/CPP/CPP/reverseStack.cpp
+	<iostream>
+	<stdlib.h>
+
+1472991775 source:/home/saurabh/CPP/CPP/traversalBT.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+
+1473100691 source:/home/saurabh/CPP/CPP/temp.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+

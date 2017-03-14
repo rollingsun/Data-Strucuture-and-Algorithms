@@ -1,0 +1,4 @@
+/home/saurabh/CPP/graph1.cpp: In function ‘int main()’:
+/home/saurabh/CPP/graph1.cpp:18:2: error: expected ‘;’ before ‘}’ token
+  }
+  ^
